@@ -2,4 +2,4 @@
 
 Welcome to my first research project
 
-[my data] (data.txt) | [my code] (analyze.py)
+[my data](data.txt) | [my_code](analyze.py)
