@@ -372,7 +372,7 @@ lack of an SCP was one of the root causes of the sanctions violations identified
 of the investigation. In addition, OFAC frequently identified this element as an aggravating
 factor in its analysis of the General Factors associated with such administrative actions.
 
-II. Misinterpreting, or Failing to Understand the Applicability of, OFAC’s Regulations
+IL. Misinterpreting, or Failing to Understand the Applicability of, OFAC’s Regulations
 
 Numerous organizations have committed sanctions violations by misinterpreting OFAC’s
 regulations, particularly in instances in which the subject person determined the transaction,
@@ -388,7 +388,7 @@ additional aggravating factors, such as reckless conduct, the presence of numero
 that the activity at issue was likely prohibited, awareness by the organization’s management of
 the conduct at issue, and the size and sophistication of the subject person.
 
-III. Facilitating Transactions by Non-U.S. Persons (Including Through or By Overseas
+Il. Facilitating Transactions by Non-U.S. Persons (Including Through or By Overseas
 Subsidiaries or Affiliates)
 
 Multiple organizations subject to U.S. jurisdiction—specifically those with foreign-based
@@ -436,7 +436,7 @@ the conduct was prohibited, involved actual knowledge or involvement by the orga
 management, caused significant harm to U.S. sanctions program objectives, and were large or
 sophisticated organizations.
 
-VI. Sanctions Screening Software or Filter Faults
+10
 VI. Sanctions Screening Software or Filter Faults
 
 Many organizations conduct screening of their customers, supply chain, intermediaries, counter-
@@ -449,7 +449,7 @@ countries or parties—particularly in instances in which the organization is do
 business in geographies that frequently utilize such alternative spellings (i.c., Habana instead of
 Havana, Kuba instead of Cuba, Soudan instead of Sudan, etc.),
 
-VII. Improper Due Diligence on Customers/Clients (e.g., Ownership, Business Dealings,
+VIL. Improper Due Diligence on Customers/Clients (e.g., Ownership, Business Dealings,
 etc.)
 
 One of the fundamental components of an effective OFAC risk assessment and SCP is
@@ -478,8 +478,9 @@ with industry norms and practices. In many instances, organizations attempting t
 circumvent OFAC sanctions or conceal their activity will implement non-traditional business
 methods in order to complete their transactions.
 
-X. Individual Liability
+11
 X. Individual Liability
+
 In several instances, individual employees—particularly in supervisory, managerial, or
 executive-level positions—have played integral roles in causing or facilitating violations of the
 regulations administered by OFAC. Specifically, OFAC has identified scenarios involving U.S.-
